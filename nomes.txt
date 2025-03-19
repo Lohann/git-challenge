@@ -4,10 +4,10 @@ dunner
 shannon
 ricardo
 jose
-floriano
-shirley
-arthur 
-daieny
 eli
 ivone
 joao
+floriano
+shirley
+arthur
+daieny
