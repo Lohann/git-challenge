@@ -7,3 +7,7 @@ jose
 eli
 ivone
 joao
+floriano
+shirley
+arthur
+daieny
