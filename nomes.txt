@@ -8,4 +8,6 @@ floriano
 shirley
 arthur 
 daieny
+eli
+ivone
 joao
